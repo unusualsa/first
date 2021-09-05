@@ -1,0 +1,9 @@
+{
+  "name": "elizebet",
+  "version": "0.0.0",
+  "description": "elizebet",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
